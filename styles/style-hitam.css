@@ -1,0 +1,30 @@
+.tema-hitam, .tema-hitam nav{
+    color: white;
+    background-color: #2C3333 !important;
+}
+
+.tema-hitam .navigasi{
+    box-shadow: 0 4px 8px 0 grey !important;
+}
+
+.tema-hitam nav a{
+    color: white !important;
+}
+
+.tema-hitam nav a:hover{
+    color: grey;
+}
+
+.tema-hitam p{
+    color: white !important;
+}
+
+.tema-hitam input[type=text], .tema-hitam textarea{
+    border: 1px grey solid;
+    color: white !important;
+    background: #110e0ed0;
+}
+
+.tema-hitam footer{
+    background-color: #110e0ed0;
+}

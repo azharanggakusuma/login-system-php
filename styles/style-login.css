@@ -1,0 +1,14 @@
+h1{
+    font-size: 25px;
+}
+
+.btn-login{
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
+
+input[type=text]:focus, input[type=password]:focus, select{
+    box-shadow: none;
+    border: 1px solid black;
+}
